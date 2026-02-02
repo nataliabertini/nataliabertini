@@ -15,7 +15,6 @@ Trabajo en la intersección entre gestión, operaciones y datos, liderando inici
 - 🤔 Busco profundizar en **arquitecturas de datos, pipelines y buenas prácticas de gobierno**
 - 💬 Preguntame sobre **Data Governance, BI, SQL, Power BI, gestión de proyectos de datos**
 - 📫 Cómo contactarme: *LinkedIn / GitHub messages*
-- 😄 Pronombres: she / her
 - ⚡ Fun fact: creo que los datos bien gobernados pueden cambiar completamente cómo toman decisiones las organizaciones
 
 ---
