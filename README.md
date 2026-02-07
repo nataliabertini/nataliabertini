@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Hola! Mi nombre es **Natalia** 🇺🇾  
-Data & Analytics Project Leader | Data Management & Governance | Big Data | BI
+Senior Leader | Data & AI Strategy | Account & Delivery Management | Innovation, Governance & Business Value
 
 Trabajo en la intersección entre gestión, operaciones y datos, liderando iniciativas de analítica, gobierno y calidad de datos en entornos regulados.
 
